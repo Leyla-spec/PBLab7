@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PBLab7\PBLab7\bin\Debug\net8.0\PBLab7.exe
+C:\Users\HP\source\repos\PBLab7\PBLab7\bin\Debug\net8.0\PBLab7.deps.json
+C:\Users\HP\source\repos\PBLab7\PBLab7\bin\Debug\net8.0\PBLab7.runtimeconfig.json
+C:\Users\HP\source\repos\PBLab7\PBLab7\bin\Debug\net8.0\PBLab7.dll
+C:\Users\HP\source\repos\PBLab7\PBLab7\bin\Debug\net8.0\PBLab7.pdb
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.AssemblyInfo.cs
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.dll
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\refint\PBLab7.dll
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.pdb
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\PBLab7.genruntimeconfig.cache
+C:\Users\HP\source\repos\PBLab7\PBLab7\obj\Debug\net8.0\ref\PBLab7.dll
